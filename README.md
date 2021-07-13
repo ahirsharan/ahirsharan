@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ahirsharan/ahirsharan/main/gihub_prof.jpg"/>
+<img src="https://raw.githubusercontent.com/ahirsharan/ahirsharan/main/github_prof.jpg"/>
  <hr></hr>
 <p align="center">
   <samp>
