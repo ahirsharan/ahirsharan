@@ -3,7 +3,7 @@
 <p align="center">
   <samp>
     Hi, I'm Gursharan! 👋 <br>
-    🔥 23 year old Software Engineer grinding hard to make something cool !! <br>
+    🔥 23 year old Software Engineer learning and improving day by day😀<br>
     :sparkles: Favorite Tech: JavaScript, Python, C++ ... <br>
     :notebook: I’m currently learning Computer Vision...😀  <br>
     💌	ahir.sharan@gmail.com <br>
