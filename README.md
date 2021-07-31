@@ -4,7 +4,7 @@
   <samp>
     Hi, I'm Gursharan! 👋 <br>
     🔥 23 year old Software Engineer learning and improving day by day😀<br>
-    :sparkles: Favorite Tech: JavaScript, Python, C++ ... <br>
+    :sparkles: Favorite Languages: C++, Python, JavaScript ... <br>
     :notebook: I’m currently learning Computer Vision...😀  <br>
     💌	ahir.sharan@gmail.com <br>
     💼LinkedIn: https://www.linkedin.com/in/gursharan123/ <br>
