@@ -6,7 +6,7 @@
     Favorite Languages: C++, Python, ... <br>
     I’m currently learning Computer Vision...😀  <br>
     ahir.sharan@gmail.com <br>
-    LinkedIn: https://www.linkedin.com/in/gursharan123/ <br>
+    https://www.linkedin.com/in/gursharan123/ <br>
   </samp>
 </p>
 
